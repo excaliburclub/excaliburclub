@@ -1,3 +1,3 @@
 <body>
-    <script> location.href = '/Pages/Wileyredid.html'; </script>
+    <script> location.href = '/Pages/wileyredid.html'; </script>
 </body>
